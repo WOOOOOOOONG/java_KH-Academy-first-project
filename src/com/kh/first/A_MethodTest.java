@@ -3,17 +3,17 @@ package com.kh.first;
 public class A_MethodTest {
 
 	public void methodA() {
-		System.out.println("Method A°¡ È£ÃâµÇ¾ú¾î¿ä !");
+		System.out.println("Method Aê°€ í˜¸ì¶œë˜ì—ˆì–´ìš” !");
 		methodB();
 	}
 	
 	public void methodB() {
-		System.out.println("Method B°¡ È£ÃâµÇ¾ú¾î¿ä !");
+		System.out.println("Method Bê°€ í˜¸ì¶œë˜ì—ˆì–´ìš” !");
 		methodC();
 	}
 	
 	public void methodC() {
-		System.out.println("Method C°¡ È£ÃâµÇ¾ú¾î¿ä !");
+		System.out.println("Method Cê°€ í˜¸ì¶œë˜ì—ˆì–´ìš” !");
 	}
 	
 }

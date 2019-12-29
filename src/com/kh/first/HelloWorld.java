@@ -1,14 +1,14 @@
 package com.kh.first;
 
-//ÇÏ³ªÀÇ ÇÁ·ÎÁ§Æ®°¡ ÇÏ³ªÀÇ ÇÁ·Î±×·¥ -> MyFirstProject ÀüÃ¼°¡ ÇÁ·Î±×·¥
+//í•˜ë‚˜ì˜ í”„ë¡œì íŠ¸ê°€ í•˜ë‚˜ì˜ í”„ë¡œê·¸ëž¨ -> MyFirstProject ì „ì²´ê°€ í”„ë¡œê·¸ëž¨
 
 public class HelloWorld {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
 		
-		System.out.print("¾È³çÇÏ¼¼¿ä!\n");
-		System.out.print("¿©·¯ºÐ");
+		System.out.print("ì•ˆë…•í•˜ì„¸ìš”!\n");
+		System.out.print("ì—¬ëŸ¬ë¶„");
 	}
 
 }
